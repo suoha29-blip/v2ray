@@ -1597,7 +1597,6 @@ footer_msg() {
     msg "------------- END -------------"
     msg "关注(tg): $(msg_ul https://t.me/shfq29)"
     msg "文档(doc): $(msg_ul https://suoha29-blip.com/$is_core/$is_core-script/)"
-    msg "推广(ads): 机场推荐($is_core_name services): $(msg_ul https://g${c}e${n}t${m}j${s}m${b}s.com/)\n"
     ####### 要点13脸吗只会改我链接的小人 #######
 }
 
